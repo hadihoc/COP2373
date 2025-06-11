@@ -1,0 +1,228 @@
+<changelist name="Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]" date="1749613292345" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 6/10/2025 11:41 PM [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_testconsole.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testconsole.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_testinternalcapi.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testinternalcapi.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/vcruntime140.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/vcruntime140.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_bz2.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_bz2.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/w64.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_asyncio.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_asyncio.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_testclinic_limited.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testclinic_limited.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_testbuffer.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testbuffer.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_testcapi.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testcapi.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/tk86t.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/tk86t.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_hashlib.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_hashlib.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/sqlite3.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/sqlite3.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/tcl86t.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/tcl86t.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/pythonw.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pythonw.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_testlimitedcapi.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testlimitedcapi.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/unicodedata.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/unicodedata.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_uuid.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_uuid.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_decimal.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_decimal.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_testsinglephase.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testsinglephase.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/pip-3.13.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pip-3.13.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_testclinic.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testclinic.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_socket.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_socket.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_ctypes_test.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_ctypes_test.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/w32.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/t64-arm.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/libcrypto-3.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/libcrypto-3.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/zlib1.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/zlib1.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_tkinter.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_tkinter.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/python313.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/python313.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="EXERCISE 1/Technical Design Document for Exercise 1.docx" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/Technical Design Document for Exercise 1.docx" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_sqlite3.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_sqlite3.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_multiprocessing.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_multiprocessing.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_queue.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_queue.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_lzma.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_lzma.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_ctypes.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_ctypes.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_zoneinfo.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_zoneinfo.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/select.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/select.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/python3.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/python3.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_overlapped.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_overlapped.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_testimportmultiple.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testimportmultiple.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_ssl.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_ssl.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/t64.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/winsound.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/winsound.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/pip.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pip.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/w64-arm.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/pip3.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pip3.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/vcruntime140_1.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/vcruntime140_1.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/pip3.13.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pip3.13.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/t32.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/pyexpat.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pyexpat.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/libffi-8.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/libffi-8.dll" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_elementtree.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_elementtree.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_wmi.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_wmi.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/python.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/python.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/_testmultiphase.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testmultiphase.pyd" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/Scripts/libssl-3.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/libssl-3.dll" />
+  </binary>
+</changelist>

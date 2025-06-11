@@ -14,10 +14,12 @@ def get_expenses():
 
             if expense_type.lower() == 'e':
                 break
-
-            amount = float(input(f"Enter the amount for {expense_type}: "))
-            expense_names.append(expense_type)
-            expense_amount.append(amount)
+            elif expense_type.isdigit():
+                print("Please enter a valid name for the expense.")
+            else:
+                amount = float(input(f"Enter the amount for {expense_type}: "))
+                expense_names.append(expense_type)
+                expense_amount.append(amount)
         except ValueError:
             print("Please enter a valid number for the amount.")
 
@@ -35,27 +37,30 @@ def main():
     # back to dict data type
     expenses = dict(get_expenses())
 
-    # Converting tuple data type to float,
-    # then calculating the total expenses in the expenses dict
-    total_expenses = sum(expenses.values())
+    if expenses:
+        # Converting tuple data type to float,
+        # then calculating the total expenses in the expenses dict
+        total_expenses = sum(expenses.values())
 
-    # Sorting the expenses dict by values in ascending order
-    # and assigned to a new dict named sorted_expenses
-    sorted_expenses = dict(sorted(expenses.items(), key=lambda item: item[1]))
+        # Sorting the expenses dict by values in ascending order
+        # and assigned to a new dict named sorted_expenses
+        sorted_expenses = dict(sorted(expenses.items(), key=lambda item: item[1]))
 
-    # Getting the lowest expense or the first value in the sorted dictionary
-    min_type, min_value = next(iter(sorted_expenses.items()))
+        # Getting the lowest expense or the first value in the sorted dictionary
+        min_type, min_value = next(iter(sorted_expenses.items()))
 
-    # Getting the highest expense or the last value in the sorted dictionary
-    max_type, max_value = next(reversed(sorted_expenses.items()))
+        # Getting the highest expense or the last value in the sorted dictionary
+        max_type, max_value = next(reversed(sorted_expenses.items()))
 
-    print(sorted_expenses)
-    print()
-    print(f"The monthly total of all expenses are: ${total_expenses}.")
-    print()
-    print(f"The lowest expense is ${min_value} for {min_type}")
-    print()
-    print(f"The highest expense is ${max_value} for {max_type}")
+        print(sorted_expenses)
+        print()
+        print(f"The monthly total of all expenses are: ${total_expenses}.")
+        print()
+        print(f"The lowest expense is ${min_value} for {min_type}")
+        print()
+        print(f"The highest expense is ${max_value} for {max_type}")
+    else:
+        print("Good bye!")
 
 
 if __name__ == "__main__":
