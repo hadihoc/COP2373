@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67190561-8027-4361-9b6c-86395d3fe131" name="Changes" comment="exercise 3">
+      <change beforePath="$PROJECT_DIR$/EXERCISE 1/AnnaNguyen_1.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hadihoc&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hadihoc/COP2373.git&quot;,
+    &quot;accountId&quot;: &quot;cfe7889d-5ccd-45ca-bdea-ebc6bbdbaec0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wyECbXxRaCpFsk4d0Ze5G6eZhe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.AnnaNguyen_1.executor": "Run",
+    "Python.AnnaNguyen_2.executor": "Run",
+    "Python.AnnaNguyen_3.executor": "Run",
+    "Python.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/nguye/PycharmProjects/COP2373/EXERCISE 1",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\PycharmProjects\COP2373\EXERCISE 1" />
+      <recent name="C:\Users\nguye\PycharmProjects\COP2373\EXERCISE 2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\PycharmProjects\COP2373\EXERCISE 1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2ee2454479a3-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.122" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67190561-8027-4361-9b6c-86395d3fe131" name="Changes" comment="" />
+      <created>1747005287782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747005287782</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Exercise1">
+      <option name="closed" value="true" />
+      <created>1747273785014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747273785014</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercise2">
+      <option name="closed" value="true" />
+      <created>1748303808457</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748303808457</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercise2">
+      <option name="closed" value="true" />
+      <created>1748304045698</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748304045698</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercise2">
+      <option name="closed" value="true" />
+      <created>1748304187848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748304187848</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercise3">
+      <option name="closed" value="true" />
+      <created>1749612973630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749612973630</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Exercise3">
+      <option name="closed" value="true" />
+      <created>1749613193167</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749613193167</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Exercise1">
+      <option name="closed" value="true" />
+      <created>1749613256927</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749613256927</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Exercise1">
+      <option name="closed" value="true" />
+      <created>1749613267679</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749613267679</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'github/master'">
+      <option name="closed" value="true" />
+      <created>1749613296744</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749613296744</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'github/master'">
+      <option name="closed" value="true" />
+      <created>1749613422740</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749613422740</updated>
+    </task>
+    <task id="LOCAL-00011" summary="exercise 1">
+      <option name="closed" value="true" />
+      <created>1749614531942</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749614531942</updated>
+    </task>
+    <task id="LOCAL-00012" summary="exercise 1">
+      <option name="closed" value="true" />
+      <created>1749614582873</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1749614582873</updated>
+    </task>
+    <task id="LOCAL-00013" summary="exercise 1">
+      <option name="closed" value="true" />
+      <created>1749614746006</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1749614746006</updated>
+    </task>
+    <task id="LOCAL-00014" summary="exercise 3">
+      <option name="closed" value="true" />
+      <created>1749614861619</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1749614861619</updated>
+    </task>
+    <task id="LOCAL-00015" summary="exercise 3">
+      <option name="closed" value="true" />
+      <created>1749614875294</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1749614875294</updated>
+    </task>
+    <task id="LOCAL-00016" summary="exercise 3">
+      <option name="closed" value="true" />
+      <created>1749615956492</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1749615956492</updated>
+    </task>
+    <task id="LOCAL-00017" summary="exercise 3">
+      <option name="closed" value="true" />
+      <created>1749615989926</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1749615989926</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise2" />
+    <MESSAGE value="Exercise3" />
+    <MESSAGE value="Exercise1" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'" />
+    <MESSAGE value="exercise 1" />
+    <MESSAGE value="exercise 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 3" />
+  </component>
+</project>
