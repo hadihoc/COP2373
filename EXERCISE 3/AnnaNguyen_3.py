@@ -23,12 +23,10 @@ def main():
     # Creating an empty dictionary and named expenses
     expenses = {}
 
-    # Calling get_expenses function and converting the zip data type
-    # back to dict data type
+    # Get expenses by Calling get_expenses function
     expenses = get_expenses(expenses)
 
-    # Converting tuple data type to float,
-    # then calculating the total expenses in the expenses dict
+    # Calculating the total expenses in the expenses dict
     total_expenses = sum(expenses.values())
 
     # Sorting the expenses dict by values in ascending order
