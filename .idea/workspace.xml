@@ -4,48 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67190561-8027-4361-9b6c-86395d3fe131" name="Changes" comment="exercise 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCISE 3/AnnaNguyen_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISE 3/AnnaNguyen_3.py" afterDir="false" />
+    <list default="true" id="8656a6c8-f476-4e19-8e9a-a709613e1c27" name="Changes" comment="EXERCISE 4">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/Technical Design Document for Exercise 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_asyncio.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_ctypes_test.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_decimal.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_elementtree.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_lzma.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_multiprocessing.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_overlapped.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_queue.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_sqlite3.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testbuffer.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testcapi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testclinic.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testclinic_limited.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testconsole.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testimportmultiple.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testinternalcapi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testlimitedcapi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testmultiphase.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_testsinglephase.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_tkinter.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_uuid.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_wmi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/_zoneinfo.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/libcrypto-3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/libffi-8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/libssl-3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pip-3.13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pip3.13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/python3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/python313.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/t32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/t64-arm.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/t64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/tcl86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/tk86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/vcruntime140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/vcruntime140_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/w32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/w64-arm.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/w64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/winsound.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_10_2025_11_41_PM_[Changes]/zlib1.dll" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager">
-    <option name="groupingKeys">
-      <option value="directory" />
-      <option value="repository" />
-    </option>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;hadihoc&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/hadihoc/COP2373.git&quot;,
-    &quot;accountId&quot;: &quot;cfe7889d-5ccd-45ca-bdea-ebc6bbdbaec0&quot;
-  }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2wyECbXxRaCpFsk4d0Ze5G6eZhe" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ynZJ6Yp23oHG7rV4og8JJyEpMV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -55,36 +86,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.AnnaNguyen_1.executor": "Run",
-    "Python.AnnaNguyen_2.executor": "Run",
-    "Python.AnnaNguyen_3.executor": "Run",
-    "Python.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/nguye/PycharmProjects/COP2373/EXERCISE 3",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
-  },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
-    ]
+    "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="Push.Settings">
-    <option name="SHOW_DETAILS_PANEL" value="false" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\nguye\PycharmProjects\COP2373\EXERCISE 3" />
-      <recent name="C:\Users\nguye\PycharmProjects\COP2373\EXERCISE 1" />
-      <recent name="C:\Users\nguye\PycharmProjects\COP2373\EXERCISE 2" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nguye\PycharmProjects\COP2373\EXERCISE 1" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,208 +98,41 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="ShelveChangesManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="67190561-8027-4361-9b6c-86395d3fe131" name="Changes" comment="" />
-      <created>1747005287782</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1747005287782</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Exercise1">
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'github/master'">
       <option name="closed" value="true" />
-      <created>1747273785014</created>
+      <created>1749922856347</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1747273785014</updated>
+      <updated>1749922856347</updated>
     </task>
-    <task id="LOCAL-00002" summary="Exercise2">
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'github/master'">
       <option name="closed" value="true" />
-      <created>1748303808457</created>
+      <created>1749922905774</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1748303808457</updated>
+      <updated>1749922905774</updated>
     </task>
-    <task id="LOCAL-00003" summary="Exercise2">
-      <option name="closed" value="true" />
-      <created>1748304045698</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1748304045698</updated>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8656a6c8-f476-4e19-8e9a-a709613e1c27" name="Changes" comment="EXERCISE 4" />
+      <created>1750472222768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750472222768</updated>
     </task>
-    <task id="LOCAL-00004" summary="Exercise2">
-      <option name="closed" value="true" />
-      <created>1748304187848</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1748304187848</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Exercise3">
-      <option name="closed" value="true" />
-      <created>1749612973630</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1749612973630</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Exercise3">
-      <option name="closed" value="true" />
-      <created>1749613193167</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1749613193167</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Exercise1">
-      <option name="closed" value="true" />
-      <created>1749613256927</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1749613256927</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Exercise1">
-      <option name="closed" value="true" />
-      <created>1749613267679</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1749613267679</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'github/master'">
-      <option name="closed" value="true" />
-      <created>1749613296744</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1749613296744</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'github/master'">
-      <option name="closed" value="true" />
-      <created>1749613422740</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1749613422740</updated>
-    </task>
-    <task id="LOCAL-00011" summary="exercise 1">
-      <option name="closed" value="true" />
-      <created>1749614531942</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1749614531942</updated>
-    </task>
-    <task id="LOCAL-00012" summary="exercise 1">
-      <option name="closed" value="true" />
-      <created>1749614582873</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1749614582873</updated>
-    </task>
-    <task id="LOCAL-00013" summary="exercise 1">
-      <option name="closed" value="true" />
-      <created>1749614746006</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1749614746006</updated>
-    </task>
-    <task id="LOCAL-00014" summary="exercise 3">
-      <option name="closed" value="true" />
-      <created>1749614861619</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1749614861619</updated>
-    </task>
-    <task id="LOCAL-00015" summary="exercise 3">
-      <option name="closed" value="true" />
-      <created>1749614875294</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1749614875294</updated>
-    </task>
-    <task id="LOCAL-00016" summary="exercise 3">
-      <option name="closed" value="true" />
-      <created>1749615956492</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1749615956492</updated>
-    </task>
-    <task id="LOCAL-00017" summary="exercise 3">
-      <option name="closed" value="true" />
-      <created>1749615989926</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1749615989926</updated>
-    </task>
-    <task id="LOCAL-00018" summary="exercise 3">
-      <option name="closed" value="true" />
-      <created>1749616936685</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1749616936685</updated>
-    </task>
-    <task id="LOCAL-00019" summary="exercise 3">
-      <option name="closed" value="true" />
-      <created>1749696714650</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1749696714650</updated>
-    </task>
-    <task id="LOCAL-00020" summary="exercise 3">
-      <option name="closed" value="true" />
-      <created>1749696812254</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1749696812254</updated>
-    </task>
-    <task id="LOCAL-00021" summary="exercise 3">
-      <option name="closed" value="true" />
-      <created>1749696864687</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1749696864687</updated>
-    </task>
-    <task id="LOCAL-00022" summary="exercise 3">
-      <option name="closed" value="true" />
-      <created>1749696978775</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1749696978775</updated>
-    </task>
-    <task id="LOCAL-00023" summary="exercise 3">
-      <option name="closed" value="true" />
-      <created>1749697046571</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1749697046571</updated>
-    </task>
-    <option name="localTasksCounter" value="24" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise2" />
-    <MESSAGE value="Exercise3" />
-    <MESSAGE value="Exercise1" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'" />
-    <MESSAGE value="exercise 1" />
-    <MESSAGE value="exercise 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise 3" />
+    <MESSAGE value="EXERCISE 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXERCISE 4" />
   </component>
 </project>
