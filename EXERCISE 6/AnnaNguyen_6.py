@@ -7,52 +7,66 @@
 
 import re
 
-def get_phone_number():
+def verify_phone_number(phone_number):
+
+    phone_format = r'\d{3}-\d{3}-\d{4}'
+    is_valid_phone = re.fullmatch(phone_format, phone_number)
 
     while True:
-        phone = input("Enter a phone # (format: 941-752-5504): ")
-        phone_format = re.compile(r"\d{3}-\d{3}-\d{4}")
-        is_valid_phone = re.fullmatch(phone_format, phone)
-
         if is_valid_phone:        
-            break
+            return is_valid_phone.group()
         else:
-            print("Please enter a valid number in this format: 941-752-5504")
-    return is_valid_phone.group()
+            return False
 
-def get_ssn():
+
+def verify_ssn(ssn):
     
-     while True:
-        ssn = input("Enter a social security # (format: 732-52-1199): ")
-        ssn_format = re.compile(r"\d{3}-\d{2}-\d{4}")
-        is_valid_ssn = re.fullmatch(ssn_format, ssn)
-
-        if is_valid_ssn:        
-            break
-        else:
-            print("Please enter a valid number in this format: 941-752-5504")
-            
-     return is_valid_ssn.group()
-    
-
-def get_zip_code():
+    ssn_format = re.compile(r"\d{3}-\d{2}-\d{4}")
+    is_valid_ssn = re.fullmatch(ssn_format, ssn)
 
     while True:
-        zip_code = input("Enter a ZIP code (format: 34209 or 34209-1234): ")
-        zip_code_format = re.compile(r"\d{5}|\d{5}-\d{4}")
-        is_valid_zip_code = re.fullmatch(zip_code_format, zip_code)
-
-        if is_valid_zip_code:        
-            break
+        if is_valid_ssn:
+            return is_valid_ssn.group()
         else:
-            print("Please enter a valid number in this format: 941-752-5504")
-    return is_valid_zip_code.group()
+            return False
+
+    
+
+def verify_zip_code(zip_code):
+
+   zip_code_format = re.compile(r"\d{5}|\d{5}-\d{4}")
+   is_valid_zip_code = re.fullmatch(zip_code_format, zip_code)
+
+   while True:
+        if is_valid_zip_code:
+            return is_valid_zip_code.group()
+        else:
+            return False
+
 
     
 def main():
-    phone_number = get_phone_number()
-    ssn = get_ssn()
-    zip_code = get_zip_code()
+    while True:
+        phone_number = input("Enter a phone # (format: 941-752-5504):")
+        if verify_phone_number(phone_number):
+            break
+        else:
+            print("You've entered an invalid phone number.")
+
+    while True:
+        ssn = input("Enter a social security # (format: 732-52-1199): ")
+        if verify_ssn(ssn):
+            break
+        else:
+            print("You've entered an invalid SSN.")
+
+    while True:
+        zip_code = input("Enter a ZIP code: (format: 34209 or 34209-1234): ")
+        if verify_zip_code(zip_code):
+            break
+        else:
+            print("You've entered an invalid ZIP code.")
+
 
     divider = '*' * 30
     print()
